@@ -1,0 +1,19 @@
+{
+  "name": "webpack-error-beep",
+  "version": "1.0.0",
+  "description": "beep when webpack build failed",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mainnika/webpack-error-beep.git"
+  },
+  "author": "mainnika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mainnika/webpack-error-beep/issues"
+  },
+  "homepage": "https://github.com/mainnika/webpack-error-beep#readme",
+  "devDependencies": {
+    "@types/node": "^7.0.4"
+  }
+}
